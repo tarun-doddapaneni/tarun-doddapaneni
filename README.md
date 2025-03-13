@@ -10,9 +10,9 @@ AWS Certified, RHCSA Certified and RHCOA Certified.
 
 * 🌍  I'm based in Hyderabad, INDIA
 * ✉️  You can contact me at [tarunrox399@gmail.com](mailto:tarunrox399@gmail.com)
-* 🧠  I'm learning Containers and advance techniques
-* 🤝  I'm open to collaborating on AWS cloud projects
-* ⚡  I'm a YouTuber.... but don't tell anyone
+* 🧠  I'm learning Containers and advance techniques.
+* 🤝  I'm open to collaborating on AWS cloud projects.
+* ⚡  I'm a YouTuber.... but don't tell anyone.
 
 <a href="https://www.github.com/tarun-doddapaneni" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tarun-doddapaneni?logo=github&style=for-the-badge&color=84cc16&labelColor=000000" /></a>
