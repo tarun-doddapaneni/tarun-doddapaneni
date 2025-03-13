@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is TARUN SURYA SAI DODDAPANENI
+Hi there! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm TARUN SURYA SAI DODDAPANENI
 ===================================================================================================================================================
 
-CLOUD ENGINEER
+AWS Community Builder 
 --------------
 
 Cloud Infrastructure Specialist with nearly 6 years of experience in Amazon Web Services (AWS). 
