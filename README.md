@@ -6,7 +6,7 @@ AWS Community Builder
 
 Cloud Infrastructure Specialist with nearly 6 years of experience in Amazon Web Services (AWS). 
 
-AWS Community Builder, AWS Certified, RHCSA Certified and RHCOA Certified.
+AWS Certified, RHCSA Certified and RHCOA Certified.
 
 * 🌍  I'm based in Hyderabad, INDIA
 * ✉️  You can contact me at [tarunrox399@gmail.com](mailto:tarunrox399@gmail.com)
